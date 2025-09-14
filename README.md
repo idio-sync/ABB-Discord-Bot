@@ -15,7 +15,7 @@ This bot allows you to:
 
 1. Create a Discord Bot
    - Go to https://discord.com/developers/applications
-   - Create a new application (you can name it whatever, but AudiobookRequester is nice.) Feel free to use this icon: ![](./docs/images/ABB-Discord.png)
+   - Create a new application (you can name it whatever, but AudiobookRequester is nice.)
    - Go to OAuth2 > URL Generator page, select bot under Scopes. Then, at minimum, select Embed Links, Use Slash Commands, and Send Messages under Bot Permissions.
    - Click Copy to get the URL and go to that URL.
    - Under Add to Server select your server.
